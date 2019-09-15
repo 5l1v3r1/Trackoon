@@ -10,7 +10,7 @@ pkg install wget
 echo '[!]unzip'
 pkg install unzip 
 echo '[!]openssh'
-pkg install ssh 
+pkg install openssh 
 echo '[+]Requests'
 pip install requests 
 echo '[+] Installed.'
