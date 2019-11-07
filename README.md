@@ -1,4 +1,4 @@
-## OFFICIAL REPO! Other repos are outdated, taken or fake!
+## OUTDATED!!! New version is available on Discord!
 
 # Trackoon
 
